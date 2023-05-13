@@ -11,7 +11,7 @@
 ~~- Tabela de movimentação de pedido.~~
 
 
-2. Validar se as chaves primárias, chaves estrangeiras, constraints e outros objetos definidos na primeira etapa estão corretos.
+~~2. Validar se as chaves primárias, chaves estrangeiras, constraints e outros objetos definidos na primeira etapa estão corretos.~~
 
 
 3. Criar as sequences para as chaves primárias das tabelas:
