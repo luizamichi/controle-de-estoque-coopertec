@@ -19,28 +19,28 @@
 ~~- Criar as triggers para definir automaticamente o valor após cada inserção de registro.~~
 
 
-4. Validar se as sequences e triggers estão corretas e testar se está gerando os valores corretos.
+~~4. Validar se as sequences e triggers estão corretas e testar se está gerando os valores corretos.~~
 
 
-5. Validar se os arquivos SQL estão bem documentados:
+~~5. Validar se os arquivos SQL estão bem documentados:~~
 
-- Verificar se os comentários são intuitivos;
+~~- Verificar se os comentários são intuitivos;~~
 
-- Verificar se os nomes dos objetos estão padronizados e autoexplicativos.
-
-
-6. Inserir alguns dados nas tabelas para verificar se estão íntegras:
-
-- Atentar em inserir dados consistentes para realização de testes posteriormente.
+~~- Verificar se os nomes dos objetos estão padronizados e autoexplicativos.~~
 
 
-7. Criar consultas específicas em SQL:
+~~6. Inserir alguns dados nas tabelas para verificar se estão íntegras:~~
 
-- Criar uma consulta para calcular o saldo de cada produto;
+~~- Atentar em inserir dados consistentes para realização de testes posteriormente.~~
 
-- Criar uma consulta para apresentar o valor total gasto por cada cliente;
 
-- Criar uma consulta para buscar os 20 produtos mais vendidos e o valor total de todas as vendas;
+~~7. Criar consultas específicas em SQL:~~
+
+~~- Criar uma consulta para calcular o saldo de cada produto;~~
+
+~~- Criar uma consulta para apresentar o valor total gasto por cada cliente;~~
+
+~~- Criar uma consulta para buscar os 20 produtos mais vendidos e o valor total de todas as vendas;~~
 
 
 8. Certificar se o resultado das consultas SQL feitas anteriormente estão corretos.
