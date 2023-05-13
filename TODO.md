@@ -1,14 +1,14 @@
-1. Criar um arquivo de script SQL com os comandos DDL para criação de 4 tabelas:
+~~1. Criar um arquivo de script SQL com os comandos DDL para criação de 4 tabelas:~~
 
-- Tabela de cliente;
+~~- Tabela de cliente;~~
 
-- Tabela de produto;
+~~- Tabela de produto;~~
 
-- Tabela de movimentação de produto;
+~~- Tabela de movimentação de produto;~~
 
-- Tabela de pedido;
+~~- Tabela de pedido;~~
 
-- Tabela de movimentação de pedido.
+~~- Tabela de movimentação de pedido.~~
 
 
 2. Validar se as chaves primárias, chaves estrangeiras, constraints e outros objetos definidos na primeira etapa estão corretos.
