@@ -14,9 +14,9 @@
 ~~2. Validar se as chaves primárias, chaves estrangeiras, constraints e outros objetos definidos na primeira etapa estão corretos.~~
 
 
-3. Criar as sequences para as chaves primárias das tabelas:
+~~3. Criar as sequences para as chaves primárias das tabelas:~~
 
-- Criar as triggers para definir automaticamente o valor após cada inserção de registro.
+~~- Criar as triggers para definir automaticamente o valor após cada inserção de registro.~~
 
 
 4. Validar se as sequences e triggers estão corretas e testar se está gerando os valores corretos.
