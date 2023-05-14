@@ -76,12 +76,12 @@
    ~~- Remover o ID do pedido na tabela de movimentações de produtos.~~
 
 
-11. Validar se está tudo correto (nomenclatura, complexidade, etc.) na package criada.
+~~11. Validar se está tudo correto (nomenclatura, complexidade, etc.) na package criada.~~
 
 
-13. Testar tudo para garantir que está funcionando corretamente e produzindo os resultados esperados:
+~~12. Testar tudo para garantir que está funcionando corretamente e produzindo os resultados esperados:~~
 
-   - Revisar todo o código pela última vez para garantir que esteja limpo, consistente e seguindo as boas práticas de desenvolvimento do Oracle SQL.
+   ~~- Revisar todo o código pela última vez para garantir que esteja limpo, consistente e seguindo as boas práticas de desenvolvimento do Oracle SQL.~~
 
 
 14. Fazer um manual simples de utilização:
