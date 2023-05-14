@@ -43,37 +43,37 @@
 ~~- Criar uma consulta para buscar os 20 produtos mais vendidos e o valor total de todas as vendas;~~
 
 
-8. Certificar se o resultado das consultas SQL feitas anteriormente estão corretos.
+~~8. Certificar se o resultado das consultas SQL feitas anteriormente estão corretos.~~
 
 
-9. Criar uma stored procedure ou uma package para efetivar um pedido:
+~~9. Criar uma stored procedure ou uma package para efetivar um pedido:~~
 
-- Certificar que a procedure/function receberá como parâmetro o ID do pedido e a flag de gerente:
+~~- Certificar que a procedure/function receberá como parâmetro o ID do pedido e a flag de gerente:~~
 
-   - Definir se a mensagem será o retorno da função ou um parâmetro OUT.
+   ~~- Definir se a mensagem será o retorno da função ou um parâmetro OUT.~~
 
-- Verificar se o pedido está pendente ou cancelado e lançar uma exceção.
+~~- Verificar se o pedido está pendente ou cancelado e lançar uma exceção.~~
 
-- Utilizar transação para garantir a consistência dos dados;
+~~- Utilizar transação para garantir a consistência dos dados;~~
 
-- Verificar se o produto está bloqueado e lançar uma exceção se não for gerente;
+~~- Verificar se o produto está bloqueado e lançar uma exceção se não for gerente;~~
 
-- Verificar se o valor diverge 10% e se é gerente (lançar exceção se preciso);
+~~- Verificar se o valor diverge 10% e se é gerente (lançar exceção se preciso);~~
 
-- Inserir o ID do pedido na tabela de movimentação quando concluir.
+~~- Inserir o ID do pedido na tabela de movimentação quando concluir.~~
 
 
-10. Criar na mesma package uma função para cancelar um pedido:
+~~10. Criar na mesma package uma função para cancelar um pedido:~~
 
-- Verificar se está pendente e apenas cancelar;
+~~- Verificar se está pendente e apenas cancelar;~~
 
-- Verificar se está cancelado e lançar uma exceção;
+~~- Verificar se está cancelado e lançar uma exceção;~~
 
-- Verificar se está efetivado e cancelar:
+~~- Verificar se está efetivado e cancelar:~~
 
-   - Adicionar a quantidade dos produtos que saíram de volta à tabela de produtos;
+   ~~- Adicionar a quantidade dos produtos que saíram de volta à tabela de produtos;~~
 
-   - Remover o ID do pedido na tabela de movimentações de produtos.
+   ~~- Remover o ID do pedido na tabela de movimentações de produtos.~~
 
 
 11. Validar se está tudo correto (nomenclatura, complexidade, etc.) na package criada.
