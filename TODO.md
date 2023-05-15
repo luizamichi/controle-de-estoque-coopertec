@@ -84,12 +84,12 @@
    ~~- Revisar todo o código pela última vez para garantir que esteja limpo, consistente e seguindo as boas práticas de desenvolvimento do Oracle SQL.~~
 
 
-14. Fazer um manual simples de utilização:
+~~13. Fazer um manual simples de utilização:~~
 
-   - Orientar que cadastre a quantidade de produtos zerada no cadastro;
+   ~~- Orientar que cadastre a quantidade de produtos zerada no cadastro;~~
 
-   - Orientar que os pedidos sejam cadastrados com o status "pendente";
+   ~~- Orientar que os pedidos sejam cadastrados com o status "pendente";~~
 
-   - Orientar que utilizem as funções criadas para cancelamento/efetivação de pedidos;
+   ~~- Orientar que utilizem as funções criadas para cancelamento/efetivação de pedidos;~~
 
-   - Orientar que não criem registros na tabela de movimentação de produto, pois são gerados automaticamente;
+   ~~- Orientar que não criem registros na tabela de movimentação de produto, pois são gerados automaticamente;~~
